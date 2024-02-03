@@ -137,10 +137,3 @@ now again click on url you will find a web page where you wordpress application 
 
 
 
-
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
