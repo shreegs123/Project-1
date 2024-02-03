@@ -1,17 +1,10 @@
 
 # PROJECT-1 Deploy Wordpress website on AWS using Elastic Beanstalk
 
-Created a simple web app which displays 
-“Hello GUVI GEEK”.
-
-
-
 ## Step 1 : Git clone
 
  - [Github Project link](https://github.com/shreegs123/Project-1.git)
  
-
-
 ## Launch RDS database →
 
 Step 1 → Search RDS on aws console and then click on create database
@@ -25,8 +18,6 @@ Step 3 → Set your master name and password
 ![App Screenshot](https://github.com/shreegs123/Project-1/blob/main/ss2.png?raw=true)
 
 Step 4 →  Give the name to your database in the additional configuration and remain everything as it is and click on create database it takes up to 3 to 4 minutes to configure everything.
-
-![App Screenshot](https://github.com/shreegs123/Guvi_Interview_Task/blob/main/T1.png)
 
 ## Launch Elastic Beanstalk  →
 
